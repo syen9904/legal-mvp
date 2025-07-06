@@ -1,2 +1,6 @@
 streamlit
 openai
+uuid
+dotenv
+pydantic
+typing
